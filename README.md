@@ -2,6 +2,10 @@
 
 A full-stack Lead Management CRM built using React, Node.js, Express, MongoDB, JWT Authentication, Tailwind CSS, Recharts, and Vercel/Render deployment.
 
+##login 
+id: admin@gmail.com
+pwd : admin123
+
 ## Live Demo
 
 Frontend:
